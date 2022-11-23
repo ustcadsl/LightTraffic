@@ -1,0 +1,45 @@
+num nodes: 41652230, num edges: 1468365182, num walkers: 83304460
+number of partitons: 93, graph memory pool: 5952 MB, walker memory pool: 1316 MB
+Running Time: 1881.819092 ms
+iterations: 9354, explicit: 9339
+graph loading time: 481.854279 ms, calls: 88
+computing time: 1606.020508 ms, calls: 12921
+zero copy time: 2.316224 ms, calls: 15
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 41652230, num edges: 1468365182, num walkers: 83304460
+number of partitons: 93, graph memory pool: 5952 MB, walker memory pool: 1316 MB
+Running Time: 1879.239258 ms
+iterations: 9324, explicit: 9308
+graph loading time: 481.873383 ms, calls: 88
+computing time: 1609.475464 ms, calls: 12839
+zero copy time: 2.339360 ms, calls: 16
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 41652230, num edges: 1468365182, num walkers: 83304460
+number of partitons: 93, graph memory pool: 5952 MB, walker memory pool: 1316 MB
+Running Time: 1877.033813 ms
+iterations: 9329, explicit: 9315
+graph loading time: 481.876251 ms, calls: 88
+computing time: 1607.879883 ms, calls: 12768
+zero copy time: 2.309696 ms, calls: 14
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 41652230, num edges: 1468365182, num walkers: 83304460
+number of partitons: 93, graph memory pool: 5952 MB, walker memory pool: 1316 MB
+Running Time: 1877.820923 ms
+iterations: 9338, explicit: 9323
+graph loading time: 481.835571 ms, calls: 88
+computing time: 1609.901123 ms, calls: 12767
+zero copy time: 2.334111 ms, calls: 15
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 41652230, num edges: 1468365182, num walkers: 83304460
+number of partitons: 93, graph memory pool: 5952 MB, walker memory pool: 1316 MB
+Running Time: 1879.014893 ms
+iterations: 9265, explicit: 9252
+graph loading time: 481.740967 ms, calls: 88
+computing time: 1610.153320 ms, calls: 12701
+zero copy time: 2.288512 ms, calls: 13
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0

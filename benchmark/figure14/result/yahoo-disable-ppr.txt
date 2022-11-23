@@ -1,0 +1,61 @@
+node with max degree: 115384435, degree: 653912326
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 167966.546875 ms
+iterations: 662, explicit: 662
+graph loading time: 165760.156250 ms, calls: 658
+computing time: 3710.577637 ms, calls: 30165
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 1304.510254 ms, calls: 7656
+walker evicting time: 632.169189 ms, calls: 4036
+PageRank value of node 2: 0.000000
+sum: 1307825408, 1307825408
+result correct
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 176714.390625 ms
+iterations: 695, explicit: 695
+graph loading time: 174440.125000 ms, calls: 691
+computing time: 3737.483398 ms, calls: 30318
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 1311.121094 ms, calls: 7658
+walker evicting time: 633.254578 ms, calls: 4038
+PageRank value of node 2: 0.500000
+sum: 1307825408, 1307825408
+result correct
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 180368.843750 ms
+iterations: 710, explicit: 710
+graph loading time: 178153.875000 ms, calls: 706
+computing time: 3726.686768 ms, calls: 30241
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 1305.845459 ms, calls: 7656
+walker evicting time: 630.293457 ms, calls: 4036
+PageRank value of node 2: 0.500000
+sum: 1307825408, 1307825408
+result correct
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 170675.234375 ms
+iterations: 672, explicit: 672
+graph loading time: 168427.531250 ms, calls: 669
+computing time: 3743.652100 ms, calls: 30147
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 1310.342529 ms, calls: 7652
+walker evicting time: 636.259888 ms, calls: 4032
+PageRank value of node 2: 0.500000
+sum: 1307825408, 1307825408
+result correct
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 173012.328125 ms
+iterations: 680, explicit: 680
+graph loading time: 170779.406250 ms, calls: 676
+computing time: 3721.566895 ms, calls: 30334
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 1309.312500 ms, calls: 7651
+walker evicting time: 631.679321 ms, calls: 4031
+PageRank value of node 2: 0.000000
+sum: 1307825408, 1307825408
+result correct

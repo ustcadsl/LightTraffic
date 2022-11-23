@@ -1,0 +1,161 @@
+node with max degree: 0, degree: 6444720
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 2149284.750000 ms
+iterations: 30304, explicit: 0
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 2775914.000000 ms, calls: 464470
+walker loading time: 1860000.250000 ms, calls: 434166
+walker evicting time: 612616.125000 ms, calls: 424132
+node 0, degree 6444720, value 430131.937500
+node 1, degree 4937883, value 332179.000000
+node 2, degree 6045226, value 431116.062500
+node 3, degree 1772236, value 143297.406250
+node 4, degree 5104665, value 418063.156250
+node 5, degree 1615327, value 131170.187500
+node 6, degree 840217, value 67640.984375
+node 7, degree 2964796, value 192133.968750
+node 8, degree 799230, value 68960.484375
+node 9, degree 4160186, value 315782.062500
+node 10, degree 1139845, value 95802.273438
+node 11, degree 2848881, value 185325.031250
+node 12, degree 1996017, value 118587.171875
+node 13, degree 602338, value 36559.031250
+node 14, degree 1338183, value 124409.015625
+node 15, degree 2697971, value 169239.953125
+node 16, degree 1735810, value 132589.687500
+node 17, degree 1124841, value 65043.292969
+node 18, degree 2125681, value 196159.843750
+node 19, degree 869275, value 53004.054688
+node 0, degree 6444720, value 430131.937500
+sum: 269578931520, 269578931520
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 2150627.750000 ms
+iterations: 30806, explicit: 0
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 2776949.500000 ms, calls: 464765
+walker loading time: 1860125.875000 ms, calls: 433959
+walker evicting time: 612454.812500 ms, calls: 423925
+node 0, degree 6444720, value 429089.687500
+node 1, degree 4937883, value 331320.093750
+node 2, degree 6045226, value 431901.656250
+node 3, degree 1772236, value 143278.625000
+node 4, degree 5104665, value 418492.656250
+node 5, degree 1615327, value 131124.359375
+node 6, degree 840217, value 67570.359375
+node 7, degree 2964796, value 192399.593750
+node 8, degree 799230, value 68630.734375
+node 9, degree 4160186, value 316349.218750
+node 10, degree 1139845, value 96049.671875
+node 11, degree 2848881, value 184817.062500
+node 12, degree 1996017, value 118320.828125
+node 13, degree 602338, value 36558.699219
+node 14, degree 1338183, value 124585.343750
+node 15, degree 2697971, value 168981.328125
+node 16, degree 1735810, value 132465.109375
+node 17, degree 1124841, value 64908.695312
+node 18, degree 2125681, value 195683.031250
+node 19, degree 869275, value 52893.960938
+node 0, degree 6444720, value 429089.687500
+sum: 269578931520, 269578931520
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 2160167.000000 ms
+iterations: 30852, explicit: 0
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 2788303.000000 ms, calls: 465043
+walker loading time: 1864812.875000 ms, calls: 434191
+walker evicting time: 610668.437500 ms, calls: 424157
+node 0, degree 6444720, value 429183.562500
+node 1, degree 4937883, value 331363.187500
+node 2, degree 6045226, value 431524.625000
+node 3, degree 1772236, value 143154.859375
+node 4, degree 5104665, value 417163.500000
+node 5, degree 1615327, value 130767.062500
+node 6, degree 840217, value 67503.195312
+node 7, degree 2964796, value 192798.015625
+node 8, degree 799230, value 69139.320312
+node 9, degree 4160186, value 315117.781250
+node 10, degree 1139845, value 96439.171875
+node 11, degree 2848881, value 185026.734375
+node 12, degree 1996017, value 118536.265625
+node 13, degree 602338, value 36497.382812
+node 14, degree 1338183, value 125064.890625
+node 15, degree 2697971, value 168969.500000
+node 16, degree 1735810, value 132161.671875
+node 17, degree 1124841, value 65182.960938
+node 18, degree 2125681, value 196010.171875
+node 19, degree 869275, value 52895.593750
+node 0, degree 6444720, value 429183.562500
+sum: 269578931520, 269578931520
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 2150951.500000 ms
+iterations: 30549, explicit: 0
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 2777329.250000 ms, calls: 464648
+walker loading time: 1860102.750000 ms, calls: 434099
+walker evicting time: 612307.125000 ms, calls: 424065
+node 0, degree 6444720, value 430057.906250
+node 1, degree 4937883, value 332014.343750
+node 2, degree 6045226, value 432465.031250
+node 3, degree 1772236, value 143067.406250
+node 4, degree 5104665, value 417826.531250
+node 5, degree 1615327, value 130838.359375
+node 6, degree 840217, value 67472.828125
+node 7, degree 2964796, value 192916.125000
+node 8, degree 799230, value 69080.070312
+node 9, degree 4160186, value 315789.093750
+node 10, degree 1139845, value 96546.156250
+node 11, degree 2848881, value 185573.421875
+node 12, degree 1996017, value 118274.296875
+node 13, degree 602338, value 36520.601562
+node 14, degree 1338183, value 124566.523438
+node 15, degree 2697971, value 169418.046875
+node 16, degree 1735810, value 132358.468750
+node 17, degree 1124841, value 64977.550781
+node 18, degree 2125681, value 196638.593750
+node 19, degree 869275, value 53014.007812
+node 0, degree 6444720, value 430057.906250
+sum: 269578931520, 269578931520
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 2151312.000000 ms
+iterations: 30971, explicit: 0
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 2777212.500000 ms, calls: 464705
+walker loading time: 1860960.500000 ms, calls: 433734
+walker evicting time: 611958.375000 ms, calls: 423700
+node 0, degree 6444720, value 430178.781250
+node 1, degree 4937883, value 331934.937500
+node 2, degree 6045226, value 431179.406250
+node 3, degree 1772236, value 142850.031250
+node 4, degree 5104665, value 417127.687500
+node 5, degree 1615327, value 130704.156250
+node 6, degree 840217, value 67276.562500
+node 7, degree 2964796, value 192991.687500
+node 8, degree 799230, value 68885.671875
+node 9, degree 4160186, value 314568.593750
+node 10, degree 1139845, value 95533.656250
+node 11, degree 2848881, value 185490.468750
+node 12, degree 1996017, value 118514.765625
+node 13, degree 602338, value 36703.863281
+node 14, degree 1338183, value 124904.289062
+node 15, degree 2697971, value 169261.406250
+node 16, degree 1735810, value 132440.984375
+node 17, degree 1124841, value 65094.867188
+node 18, degree 2125681, value 195317.859375
+node 19, degree 869275, value 52912.761719
+node 0, degree 6444720, value 430178.781250
+sum: 269578931520, 269578931520
+result correct

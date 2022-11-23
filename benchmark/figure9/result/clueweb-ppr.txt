@@ -1,0 +1,65 @@
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 68614.210938 ms
+iterations: 12935, explicit: 3085
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 536617.000000
+sum: 3369736644, 3369736644
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 68585.000000 ms
+iterations: 13122, explicit: 3080
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 538076.500000
+sum: 3369736644, 3369736644
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 68405.117188 ms
+iterations: 11892, explicit: 2994
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 537204.000000
+sum: 3369736644, 3369736644
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 68585.164062 ms
+iterations: 13831, explicit: 3137
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 539225.000000
+sum: 3369736644, 3369736644
+result correct
+num nodes: 1684868322, num edges: 15622771654, num walkers: 3369736644
+number of partitons: 284, graph memory pool: 3328 MB, walker memory pool: 13585 MB
+Running Time: 68275.523438 ms
+iterations: 13937, explicit: 3117
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 537772.000000
+sum: 3369736644, 3369736644
+result correct

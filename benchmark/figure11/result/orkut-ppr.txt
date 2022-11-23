@@ -1,0 +1,60 @@
+num nodes: 3072441, num edges: 234370166, num walkers: 6144882
+number of partitons: 15, graph memory pool: 960 MB, walker memory pool: 88 MB
+Running Time: 92.581940 ms
+iterations: 448, explicit: 425
+graph loading time: 73.475464 ms, calls: 14
+computing time: 38.383106 ms, calls: 1132
+zero copy time: 2.479039 ms, calls: 23
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 0.000000
+sum: 6144882, 6144882
+result correct
+num nodes: 3072441, num edges: 234370166, num walkers: 6144882
+number of partitons: 15, graph memory pool: 960 MB, walker memory pool: 88 MB
+Running Time: 93.346519 ms
+iterations: 470, explicit: 445
+graph loading time: 73.495773 ms, calls: 14
+computing time: 38.755241 ms, calls: 1148
+zero copy time: 2.494591 ms, calls: 25
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 0.000000
+sum: 6144882, 6144882
+result correct
+num nodes: 3072441, num edges: 234370166, num walkers: 6144882
+number of partitons: 15, graph memory pool: 960 MB, walker memory pool: 88 MB
+Running Time: 92.564621 ms
+iterations: 445, explicit: 424
+graph loading time: 73.440063 ms, calls: 14
+computing time: 38.302036 ms, calls: 1122
+zero copy time: 2.422336 ms, calls: 21
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 0.000000
+sum: 6144882, 6144882
+result correct
+num nodes: 3072441, num edges: 234370166, num walkers: 6144882
+number of partitons: 15, graph memory pool: 960 MB, walker memory pool: 88 MB
+Running Time: 93.089386 ms
+iterations: 460, explicit: 438
+graph loading time: 73.432236 ms, calls: 14
+computing time: 38.564426 ms, calls: 1144
+zero copy time: 2.429312 ms, calls: 22
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 0.000000
+sum: 6144882, 6144882
+result correct
+num nodes: 3072441, num edges: 234370166, num walkers: 6144882
+number of partitons: 15, graph memory pool: 960 MB, walker memory pool: 88 MB
+Running Time: 92.819832 ms
+iterations: 449, explicit: 427
+graph loading time: 73.383453 ms, calls: 14
+computing time: 38.457970 ms, calls: 1131
+zero copy time: 2.459680 ms, calls: 22
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+PageRank value of node 2: 0.000000
+sum: 6144882, 6144882
+result correct

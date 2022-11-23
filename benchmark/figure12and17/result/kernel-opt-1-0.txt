@@ -1,0 +1,11 @@
+kernel time calls
+randomWalkInsidePool<App, 2009279956 49439
+insertReservedToQueue<walker>(DeviceListPool<T1> 1416339269 79931
+randomWalkInsidePoolAllBatch<App, 1129499767 6062
+page_freeFirstAndInsertFetched<walker>(DeviceListPool<T1> 509190376 79931
+insertPushedToQueue<walker>(DeviceListPool<T1> 14460453 814
+sampleNode<walker>(T1 4098418 814
+page_insertFetched<walker>(DeviceListPool<T1> 2452172 814
+_initDeviceListPool<walker>(DeviceListPool<T1> 3712 1
+_initDeviceVectorPool<unsigned 2625 1
+_initDeviceVectorPool<walker>(DeviceVectorPool<T1> 2432 1

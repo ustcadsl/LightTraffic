@@ -1,0 +1,50 @@
+num nodes: 68349466, num edges: 3623698684, num walkers: 136698932
+number of partitons: 225, graph memory pool: 14400 MB, walker memory pool: 2433 MB
+Running Time: 4716.509766 ms
+iterations: 18609, explicit: 18609
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 68349466, num edges: 3623698684, num walkers: 136698932
+number of partitons: 225, graph memory pool: 14400 MB, walker memory pool: 2433 MB
+Running Time: 4712.853027 ms
+iterations: 18496, explicit: 18496
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 68349466, num edges: 3623698684, num walkers: 136698932
+number of partitons: 225, graph memory pool: 14400 MB, walker memory pool: 2433 MB
+Running Time: 4712.255371 ms
+iterations: 18384, explicit: 18384
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 68349466, num edges: 3623698684, num walkers: 136698932
+number of partitons: 225, graph memory pool: 14400 MB, walker memory pool: 2433 MB
+Running Time: 4710.799316 ms
+iterations: 18365, explicit: 18365
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 68349466, num edges: 3623698684, num walkers: 136698932
+number of partitons: 225, graph memory pool: 14400 MB, walker memory pool: 2433 MB
+Running Time: 4718.072266 ms
+iterations: 18478, explicit: 18478
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0

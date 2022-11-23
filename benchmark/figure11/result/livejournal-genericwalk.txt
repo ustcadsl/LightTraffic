@@ -1,0 +1,45 @@
+num nodes: 4846609, num edges: 85702474, num walkers: 9693218
+number of partitons: 12, graph memory pool: 384 MB, walker memory pool: 161 MB
+Running Time: 242.584732 ms
+iterations: 792, explicit: 792
+graph loading time: 31.499649 ms, calls: 12
+computing time: 225.089127 ms, calls: 941
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 4846609, num edges: 85702474, num walkers: 9693218
+number of partitons: 12, graph memory pool: 384 MB, walker memory pool: 161 MB
+Running Time: 235.367538 ms
+iterations: 788, explicit: 788
+graph loading time: 31.346464 ms, calls: 12
+computing time: 217.584229 ms, calls: 955
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 4846609, num edges: 85702474, num walkers: 9693218
+number of partitons: 12, graph memory pool: 384 MB, walker memory pool: 161 MB
+Running Time: 235.407974 ms
+iterations: 785, explicit: 785
+graph loading time: 31.328991 ms, calls: 12
+computing time: 217.786026 ms, calls: 950
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 4846609, num edges: 85702474, num walkers: 9693218
+number of partitons: 12, graph memory pool: 384 MB, walker memory pool: 161 MB
+Running Time: 235.848877 ms
+iterations: 794, explicit: 794
+graph loading time: 31.373760 ms, calls: 12
+computing time: 217.998215 ms, calls: 959
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+num nodes: 4846609, num edges: 85702474, num walkers: 9693218
+number of partitons: 12, graph memory pool: 384 MB, walker memory pool: 161 MB
+Running Time: 235.488602 ms
+iterations: 785, explicit: 785
+graph loading time: 31.414942 ms, calls: 12
+computing time: 217.555817 ms, calls: 952
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0

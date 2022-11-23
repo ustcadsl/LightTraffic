@@ -1,0 +1,88 @@
+num nodes: 68349466, num edges: 3623698684, num walkers: 136698932
+number of partitons: 449, graph memory pool: 10240 MB, walker memory pool: 2196 MB
+Running Time: 11576.832031 ms
+iterations: 12083, explicit: 10075
+graph loading time: 9295.809570 ms, calls: 3380
+computing time: 7568.898438 ms, calls: 51353
+zero copy time: 169.378906 ms, calls: 2008
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+node 3272, degree 2935, value 35.575001
+node 3345, degree 1186, value 16.262501
+node 3352, degree 1125, value 12.250000
+node 3372, degree 2733, value 30.162500
+node 4815, degree 1305, value 13.768750
+node 4916, degree 1159, value 11.312500
+node 5086, degree 1821, value 23.750000
+node 5094, degree 1348, value 13.168750
+node 5529, degree 1280, value 19.118750
+node 5538, degree 1885, value 37.625000
+node 5564, degree 1648, value 21.118750
+node 5585, degree 1882, value 24.131250
+node 5610, degree 1036, value 15.381250
+node 5628, degree 2878, value 32.937500
+node 5640, degree 1995, value 23.475000
+node 6595, degree 2953, value 38.750000
+node 6607, degree 1842, value 24.843750
+node 6609, degree 1573, value 17.750000
+node 8067, degree 1513, value 23.131250
+node 10781, degree 1586, value 18.018749
+node 0, degree 20, value 3.137500
+sum: 10935914560, 10935914560
+result correct
+
+
+CUDA API Statistics:
+
+ Time(%)  Total Time (ns)  Num Calls  Average (ns)  Minimum (ns)  Maximum (ns)  StdDev (ns)           Name         
+ -------  ---------------  ---------  ------------  ------------  ------------  ------------  ---------------------
+    55.5       7868100589     138958       56622.1           598       4583117      113379.2  cudaStreamSynchronize
+    32.1       4552173996          5   910434799.2         45090    4217582384  1850650018.9  cudaHostRegister     
+     5.5        774266152     216283        3579.9          2834       1547747        5939.2  cudaLaunchKernel     
+     1.5        208896333      72207        2893.0          2214         22913         572.7  cudaMemcpyAsync      
+     1.4        193336982     113482        1703.7          1387        199528         682.4  cudaEventRecord      
+     1.3        187010694          6    31168449.0          3928     186902880    76293979.7  cudaMemcpy           
+     1.1        149227353     113482        1315.0           434       3623133       32770.1  cudaEventCreate      
+     1.0        145600827         19     7663201.4          2408     135497466    31010001.9  cudaMalloc           
+     0.5         73560425     113482         648.2           298       8955090       28897.9  cudaEventDestroy     
+     0.2         28462240          6     4743706.7          3885      27950515    11369569.9  cudaFree             
+     0.0            27947          3        9315.7          1526         24739       13357.2  cudaStreamCreate     
+     0.0            12420          1       12420.0         12420         12420           0.0  cudaMemcpyToSymbol   
+     0.0             8441          1        8441.0          8441          8441           0.0  cudaDeviceSynchronize
+
+
+
+CUDA Kernel Statistics:
+
+ Time(%)  Total Time (ns)  Instances  Average (ns)  Minimum (ns)  Maximum (ns)  StdDev (ns)                                                  Name                                                
+ -------  ---------------  ---------  ------------  ------------  ------------  -----------  ----------------------------------------------------------------------------------------------------
+    55.6       3992469277      80238       49757.8          2432        108737      20159.2  void insertReservedToQueue<walker>(DeviceListPool<T1> *, unsigned short, unsigned short, DevicePart…
+    21.7       1554670413      41278       37663.4          7936        128578      14335.2  void randomWalkInsidePool<App, walker>(unsigned short, unsigned int, unsigned int, unsigned long, c…
+    15.1       1084943123      12083       89790.9          7584       1284201     110304.4  void randomWalkInsidePoolAllBatch<App, walker>(unsigned int, unsigned short, unsigned int, unsigned…
+     6.7        478686798      80238        5965.8          2944         17920       1547.1  void page_freeFirstAndInsertFetched<walker>(DeviceListPool<T1> *, unsigned int)                     
+     0.8         57899102        814       71129.1         68993         73473        754.0  void insertPushedToQueue<walker>(DeviceListPool<T1> *, T1 *, unsigned int, unsigned short, DevicePa…
+     0.1          4037874        814        4960.5          4832          5760         60.2  void sampleNode<walker>(T1 *, unsigned long, unsigned int, unsigned int, curandStateXORWOW *)       
+     0.0          2313225        814        2841.8          2367         10976        575.7  void page_insertFetched<walker>(DeviceListPool<T1> *)                                               
+     0.0           309474          1      309474.0        309474        309474          0.0  initCudaRand(curandStateXORWOW *, unsigned long)                                                    
+     0.0             4192          1        4192.0          4192          4192          0.0  void _initDeviceListPool<walker>(DeviceListPool<T1> *, unsigned int, unsigned int)                  
+     0.0             2720          1        2720.0          2720          2720          0.0  void _initDeviceVectorPool<walker>(DeviceVectorPool<T1> *, T1 *, unsigned long, unsigned long)      
+     0.0             2559          1        2559.0          2559          2559          0.0  void _initDeviceVectorPool<unsigned char>(DeviceVectorPool<T1> *, T1 *, unsigned long, unsigned lon…
+
+
+
+CUDA Memory Operation Statistics (by time):
+
+ Time(%)  Total Time (ns)  Count  Average (ns)  Minimum (ns)  Maximum (ns)  StdDev (ns)      Operation     
+ -------  ---------------  -----  ------------  ------------  ------------  -----------  ------------------
+    95.6       9273909966   6766     1370663.6           832       2730963    1270784.1  [CUDA memcpy HtoD]
+     4.4        430827449  65448        6582.7           704     185710714     725924.3  [CUDA memcpy DtoH]
+
+
+
+CUDA Memory Operation Statistics (by size):
+
+ Total (MB)  Count  Average (MB)  Minimum (MB)  Maximum (MB)  StdDev (MB)      Operation     
+ ----------  -----  ------------  ------------  ------------  -----------  ------------------
+ 113291.288   6766        16.744         0.000        33.175       15.555  [CUDA memcpy HtoD]
+    626.026  65448         0.010         0.005       273.398        1.069  [CUDA memcpy DtoH]
+

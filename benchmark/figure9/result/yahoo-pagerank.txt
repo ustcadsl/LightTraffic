@@ -1,0 +1,170 @@
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 265470.406250 ms
+iterations: 1817, explicit: 1133
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+node 1, degree 696900, value 7400.325195
+node 3, degree 693257, value 7337.181152
+node 4, degree 215686, value 2140.500000
+node 5, degree 341838, value 3393.550049
+node 6, degree 341357, value 3393.912598
+node 7, degree 341164, value 3379.225098
+node 8, degree 340894, value 3387.699951
+node 9, degree 340632, value 3388.837402
+node 10, degree 339905, value 3381.899902
+node 12, degree 339610, value 3371.043701
+node 13, degree 339116, value 3364.687500
+node 14, degree 337689, value 3353.149902
+node 15, degree 337435, value 3353.781250
+node 16, degree 336630, value 3344.287598
+node 17, degree 336518, value 3334.087402
+node 18, degree 336096, value 3334.431152
+node 20, degree 335387, value 3325.306152
+node 22, degree 333986, value 3316.425049
+node 23, degree 334279, value 3313.649902
+node 24, degree 333617, value 3313.074951
+node 0, degree 294, value 4.037500
+sum: 87446163456, 104626032640
+result incorrect
+[Warning] ill-conditioned graph such as Yahoo has a very high-degree vertex whose value could exceed the max value of uint32.
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 264240.687500 ms
+iterations: 1646, explicit: 1123
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+node 1, degree 696900, value 7370.850098
+node 3, degree 693257, value 7339.918945
+node 4, degree 215686, value 2141.324951
+node 5, degree 341838, value 3393.118652
+node 6, degree 341357, value 3386.843750
+node 7, degree 341164, value 3390.712402
+node 8, degree 340894, value 3383.818848
+node 9, degree 340632, value 3380.187500
+node 10, degree 339905, value 3375.187500
+node 12, degree 339610, value 3370.643799
+node 13, degree 339116, value 3361.012451
+node 14, degree 337689, value 3355.475098
+node 15, degree 337435, value 3342.931152
+node 16, degree 336630, value 3331.550049
+node 17, degree 336518, value 3351.074951
+node 18, degree 336096, value 3330.500000
+node 20, degree 335387, value 3325.931152
+node 22, degree 333986, value 3316.556152
+node 23, degree 334279, value 3308.068848
+node 24, degree 333617, value 3312.287598
+node 0, degree 294, value 4.231250
+sum: 87446163456, 104626032640
+result incorrect
+[Warning] ill-conditioned graph such as Yahoo has a very high-degree vertex whose value could exceed the max value of uint32.
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 275335.125000 ms
+iterations: 1916, explicit: 1176
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+node 1, degree 696900, value 7390.012695
+node 3, degree 693257, value 7344.331055
+node 4, degree 215686, value 2133.037598
+node 5, degree 341838, value 3394.381348
+node 6, degree 341357, value 3391.800049
+node 7, degree 341164, value 3396.818848
+node 8, degree 340894, value 3380.543701
+node 9, degree 340632, value 3382.550049
+node 10, degree 339905, value 3371.487549
+node 12, degree 339610, value 3377.750000
+node 13, degree 339116, value 3364.425049
+node 14, degree 337689, value 3359.062500
+node 15, degree 337435, value 3347.037598
+node 16, degree 336630, value 3334.281250
+node 17, degree 336518, value 3345.518799
+node 18, degree 336096, value 3343.187500
+node 20, degree 335387, value 3335.787598
+node 22, degree 333986, value 3318.068848
+node 23, degree 334279, value 3313.787598
+node 24, degree 333617, value 3314.493652
+node 0, degree 294, value 4.193750
+sum: 87446163456, 104626032640
+result incorrect
+[Warning] ill-conditioned graph such as Yahoo has a very high-degree vertex whose value could exceed the max value of uint32.
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 265515.000000 ms
+iterations: 1642, explicit: 1056
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+node 1, degree 696900, value 7383.031250
+node 3, degree 693257, value 7343.437500
+node 4, degree 215686, value 2142.893799
+node 5, degree 341838, value 3393.987549
+node 6, degree 341357, value 3391.056152
+node 7, degree 341164, value 3383.925049
+node 8, degree 340894, value 3389.912598
+node 9, degree 340632, value 3382.175049
+node 10, degree 339905, value 3373.087402
+node 12, degree 339610, value 3377.912598
+node 13, degree 339116, value 3359.475098
+node 14, degree 337689, value 3355.968750
+node 15, degree 337435, value 3353.381348
+node 16, degree 336630, value 3347.806152
+node 17, degree 336518, value 3346.199951
+node 18, degree 336096, value 3333.324951
+node 20, degree 335387, value 3332.899902
+node 22, degree 333986, value 3319.662598
+node 23, degree 334279, value 3321.293701
+node 24, degree 333617, value 3313.556152
+node 0, degree 294, value 4.506250
+sum: 87446163456, 104626032640
+result incorrect
+[Warning] ill-conditioned graph such as Yahoo has a very high-degree vertex whose value could exceed the max value of uint32.
+num nodes: 653912704, num edges: 12948390018, num walkers: 1307825408
+number of partitons: 19, graph memory pool: 15360 MB, walker memory pool: 5392 MB
+Running Time: 266480.968750 ms
+iterations: 1853, explicit: 1142
+Warning: GPU timer is disabled, the following statistics is wrong!
+graph loading time: 0.000000 ms, calls: 0
+computing time: 0.000000 ms, calls: 0
+zero copy time: 0.000000 ms, calls: 0
+walker loading time: 0.000000 ms, calls: 0
+walker evicting time: 0.000000 ms, calls: 0
+node 1, degree 696900, value 7379.318848
+node 3, degree 693257, value 7332.543945
+node 4, degree 215686, value 2141.918701
+node 5, degree 341838, value 3393.968750
+node 6, degree 341357, value 3392.781250
+node 7, degree 341164, value 3386.587402
+node 8, degree 340894, value 3391.293701
+node 9, degree 340632, value 3386.118652
+node 10, degree 339905, value 3373.475098
+node 12, degree 339610, value 3375.543701
+node 13, degree 339116, value 3363.125000
+node 14, degree 337689, value 3352.662598
+node 15, degree 337435, value 3344.681152
+node 16, degree 336630, value 3346.949951
+node 17, degree 336518, value 3340.512451
+node 18, degree 336096, value 3342.281250
+node 20, degree 335387, value 3326.162598
+node 22, degree 333986, value 3314.975098
+node 23, degree 334279, value 3319.156250
+node 24, degree 333617, value 3317.206299
+node 0, degree 294, value 4.362500
+sum: 87446163456, 104626032640
+result incorrect
+[Warning] ill-conditioned graph such as Yahoo has a very high-degree vertex whose value could exceed the max value of uint32.
